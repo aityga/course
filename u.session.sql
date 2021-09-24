@@ -1,0 +1,27 @@
+-- CREATE TABLE phones(
+--     id SERIAL PRIMARY KEY,
+--     name VARCHAR(20),
+--     price INT
+-- );
+-- INSERT INTO phones(name, price) VALUES('iphone', 100);
+-- ALTER TABLE phones ADD COLUMN country VARCHAR;
+-- INSERT INTO phones(name, price, country) VALUES('samsung', 120, 'korea');
+-- INSERT INTO phones(name, price, country) VALUES('nokia', 1000, 'kyrgyzstan');
+-- INSERT INTO phones(name, price, country) VALUES('MI', 1, 'uzbekistan');
+-- INSERT INTO phones(name, price, country) VALUES('google', 0, 'usa');
+-- SELECT * FROM phones;
+
+-- CREATE TABLE cars(
+--     id SERIAL PRIMARY KEY,
+--     name VARCHAR(20),
+--     price INT DEFAULT 300
+-- );
+-- INSERT INTO cars(name, price) VALUES('MB', 1000);
+-- ALTER TABLE cars ADD COLUMN country VARCHAR;
+-- INSERT INTO cars(name, price, country) VALUES('audi', 300, 'germany');
+-- INSERT INTO cars(name, price, country) VALUES('bmw', 12000, 'germany');
+-- INSERT INTO cars(name, price, country) VALUES('tulpar', 1000000, 'kyrgyzstan');
+-- UPDATE cars SET country = 'germany' WHERE id = 1;
+-- DELETE FROM cars WHERE price < 1000;
+-- SELECT * FROM cars;
+
