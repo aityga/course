@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    .center {
+        text-align: center;
+    }
+</style>
+<body bgcolor="#ff99cc">
+
+<div class="center">
+    {% for i in news %}
+    {{i}}
+    {% endfor %}
+    <label for="customRange1" class="form-label"> </label>
+    <input type="range" class="form-range" id="customRange1">
+</div>
+</body>
+</html>

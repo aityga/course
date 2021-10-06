@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e67d77a-ad2c-49ed-8c7d-1fd1e0824e4c" name="Changes" comment=",,">
-      <change afterPath="$PROJECT_DIR$/django/pro/article/template/articles/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django/pro/article/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/pro/article/templates/articles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/pro/article/templates/articles/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/pro/article/templates/articles/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/pro/article/templates/articles/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/pro/article/templates/articles/index6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/pro/article/template/articles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django/pro/article/templates/articles/index2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/pro/article/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/pro/article/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/pro/article/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/pro/article/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/pro/pro/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/pro/pro/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -34,6 +39,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1xvsUh5jZqegvEGFUk0PSPUgOz0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -94,7 +107,7 @@
       <workItem from="1633321167751" duration="6546000" />
       <workItem from="1633406138252" duration="7936000" />
       <workItem from="1633430021533" duration="188000" />
-      <workItem from="1633493915681" duration="3343000" />
+      <workItem from="1633493915681" duration="8465000" />
     </task>
     <task id="LOCAL-00001" summary=",,">
       <created>1632807438867</created>
@@ -131,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633430029913</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=",,">
+      <created>1633498118819</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1633498118819</updated>
+    </task>
+    <task id="LOCAL-00007" summary=",,">
+      <created>1633498164127</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1633498164127</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
