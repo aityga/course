@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e67d77a-ad2c-49ed-8c7d-1fd1e0824e4c" name="Changes" comment=",,">
+      <change afterPath="$PROJECT_DIR$/django/pro/article/template/articles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/pro/article/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -43,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -89,6 +93,8 @@
       <workItem from="1632973970425" duration="11593000" />
       <workItem from="1633321167751" duration="6546000" />
       <workItem from="1633406138252" duration="7936000" />
+      <workItem from="1633430021533" duration="188000" />
+      <workItem from="1633493915681" duration="3343000" />
     </task>
     <task id="LOCAL-00001" summary=",,">
       <created>1632807438867</created>
@@ -118,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633417999407</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=",,">
+      <created>1633430029913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1633430029913</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
