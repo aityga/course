@@ -50,5 +50,6 @@
             "database": "followers",
             "username": "haha"
         }
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }

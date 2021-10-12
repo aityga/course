@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e67d77a-ad2c-49ed-8c7d-1fd1e0824e4c" name="Changes" comment=",,">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django/sites/news/templates/news/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django/sites/news/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/sites/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/sites/news/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/sites/news/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/sites/news/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/sites/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/sites/news/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/sites/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/sites/news/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/sites/sites/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/sites/sites/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django/sites/sites/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/sites/sites/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -87,11 +78,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -112,7 +98,7 @@
       <workItem from="1633493915681" duration="8496000" />
       <workItem from="1633579697428" duration="4239000" />
       <workItem from="1633584128514" duration="2078000" />
-      <workItem from="1633665675391" duration="8936000" />
+      <workItem from="1633665675391" duration="8991000" />
     </task>
     <task id="LOCAL-00001" summary=",,">
       <created>1632807438867</created>
@@ -184,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633667230743</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=",,">
+      <created>1633685621021</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1633685621021</updated>
+    </task>
+    <task id="LOCAL-00012" summary=",,">
+      <created>1633685627861</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1633685627861</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,18 +207,10 @@
     <MESSAGE value=",," />
     <option name="LAST_COMMIT_MESSAGE" value=",," />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/course$main.coverage" NAME="main Coverage Results" MODIFIED="1633406860999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blockchain" />
+  <component name="WindowStateProjectService">
+    <state x="442" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1634011299339">
+      <screen x="0" y="25" width="1440" height="781" />
+    </state>
+    <state x="442" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.781@0.25.1440.781" timestamp="1634011299339" />
   </component>
 </project>
