@@ -1,4 +1,4 @@
-from django.shortcuts import redirect, render
+from django.shortcuts import get_object_or_404, redirect, render
 from .models import Employer
 from .forms import EmployerForm
 
@@ -25,3 +25,26 @@ def addnew(request):
             'form': form
         }
     return render(request, 'add.html', context=context)
+
+
+def edit(request, id):  
+    employee = Employer.objects.get(id=id)
+    context = {
+        'employee': employee
+    } 
+    return render(request, 'edit.html', context=context)  
+
+
+def update(request, id):  
+    employee = Employer.objects.get(id=id)  
+    form = EmployerForm(request.POST, instance = employee)  
+    if form.is_valid():  
+        form.save()  
+        return redirect("/")  
+    return render(request, 'edit.html', {'employee': employee})  
+
+
+def delete(request, id):  
+    employee = Employer.objects.get(id=id)  
+    employee.delete()  
+    return redirect("/")  
